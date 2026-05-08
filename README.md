@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MSSN Quiz Application
 
 A comprehensive quiz application built with Laravel 12 and Tailwind CSS for schools to participate in various types of quiz competitions.
